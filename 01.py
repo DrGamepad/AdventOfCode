@@ -2,7 +2,7 @@ import res
 from functools import reduce
 from itertools import combinations
 
-a =[int (x) for x in res.read_File ()]
+a =[int (x) for x in res.read_File ("input01.txt")]
 a.sort ()
 b = a.copy ()
 

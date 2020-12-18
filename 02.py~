@@ -1,4 +1,0 @@
-import res
-
-a = [x.split () for x in res.read_File ("input02.txt")]
-print (a)
